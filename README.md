@@ -27,4 +27,6 @@
 
 
 <h2>Licença</h2>
-[MIT License](https://github.com/maryane-castro/vamos-merendar-flutter-/blob/main/LICENSE)
+Este projeto está licenciado sob a licença [MIT]. Consulte o arquivo LICENSE.md para obter mais detalhes:
+<br>
+<a href="https://github.com/maryane-castro/vamos-merendar-flutter/blob/main/LICENSE">MIT LICENCE</a>
